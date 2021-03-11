@@ -53,7 +53,7 @@
     <br>
     <br>
     <a href="inscreva.php">Inscreva-se</a>
-    <p class="mt-5 mb-3 text-muted">&copy; Since 2021</p>
+    <p class="mt-5 mb-3 text-muted">&copy; Since 2021 </p>
   </form>
               <?php
 
